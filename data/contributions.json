@@ -1853,11 +1853,11 @@
     },
     {
       "date": "2026-08-29",
-      "count": 2,
-      "level": 2
+      "count": 4,
+      "level": 3
     }
   ],
-  "total": 36,
+  "total": 38,
   "current_streak": 2,
   "longest_streak": 2
 }
