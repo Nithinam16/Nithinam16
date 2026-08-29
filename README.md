@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Nithinam16/Nithinam16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `nithin@github ~ $ ./contributions.sh`
 
-Here are some ideas to get you started:
+<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+### `nithin@github ~ $ whoami`
+
+<table>
+  <tr>
+    <td valign="top"><img src="./identity-terminal.svg" width="370" alt="Terminal identity panel" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Nithin cybersecurity profile" /></td>
+  </tr>
+</table>
+
+<br>
+
+### `nithin@github ~ $ ls featured-projects/`
+
+<a href="https://github.com/Nithinam16/AI-Security-Agent">AI Security Agent</a> ·
+<a href="https://github.com/Nithinam16/software-supply-chain-security-scanner">Supply Chain Scanner</a> ·
+<a href="https://github.com/Nithinam16/aws-security-monitor">AWS Security Monitor</a> ·
+<a href="https://github.com/Nithinam16/AI-Intrusion-Detection-System">AI IDS</a>
+
+</div>

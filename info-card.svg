@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="330" viewBox="0 0 490 330">
+<style>
+text { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:14px }
+.title,.value { fill:#e6edf3 } .key { fill:#39d353; font-weight:700 } .muted { fill:#8b949e }
+.line { opacity:0; transform:translateX(-8px); animation:print .35s ease-out forwards }
+.l0{animation-delay:0.25s}.l1{animation-delay:0.38s}.l2{animation-delay:0.51s}.l3{animation-delay:0.64s}.l4{animation-delay:0.77s}.l5{animation-delay:0.90s}.l6{animation-delay:1.03s}
+@keyframes print { to { opacity:1; transform:translateX(0) } }
+</style>
+<rect width="488" height="328" x="1" y="1" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="22" cy="21" r="5" fill="#ff5f56"/><circle cx="40" cy="21" r="5" fill="#ffbd2e"/><circle cx="58" cy="21" r="5" fill="#27c93f"/>
+<text x="245" y="26" text-anchor="middle" class="muted">nithin@github: ~</text>
+<text x="30" y="60" class="title" font-weight="700">Nithin A M</text><text x="130" y="60" class="muted">--------------------</text>
+<g class="line l0"><text x="30" y="92" class="key">Role</text><text x="130" y="92" class="value">M.S. Cybersecurity Student</text></g><g class="line l1"><text x="30" y="123" class="key">School</text><text x="130" y="123" class="value">George Washington University</text></g><g class="line l2"><text x="30" y="154" class="key">Focus</text><text x="130" y="154" class="value">SOC · Cloud · AI Security</text></g><g class="line l3"><text x="30" y="185" class="key">Stack</text><text x="130" y="185" class="value">Python · AWS · Terraform · Docker</text></g><g class="line l4"><text x="30" y="216" class="key">Tools</text><text x="130" y="216" class="value">Linux · Wireshark · Git · SQL</text></g><g class="line l5"><text x="30" y="247" class="key">Build</text><text x="130" y="247" class="value">Security automation &amp; detection</text></g><g class="line l6"><text x="30" y="278" class="key">Location</text><text x="130" y="278" class="value">Arlington, Virginia</text></g>
+<text x="30" y="313" class="muted">$ status --open-to-work</text><rect x="221" y="301" width="7" height="14" fill="#39d353"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
