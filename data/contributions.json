@@ -2,11 +2,6 @@
   "username": "Nithinam16",
   "days": [
     {
-      "date": "2025-08-29",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-08-30",
       "count": 0,
       "level": 0
@@ -1853,6 +1848,11 @@
     },
     {
       "date": "2026-09-03",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-09-04",
       "count": 0,
       "level": 0
     }
